@@ -1,0 +1,86 @@
+{
+    "Id": "CCD1243SWDSCSF",
+    "Name": "Carlos Castro",
+    "Info": {
+    	"Date-start": "09/09/2018",
+        "Description": "bla bla ",
+        "Role": ""
+    },
+    "Posts": [{
+        "postId": "2323",
+        "Title": "bla",
+        "Date": "date"
+    }
+    ],
+    "Projects": [
+        {
+            "Name": "name",
+            "DateStart": "date",
+            "DateEnd": "date",
+            "RoleDes": "",
+            "Tec": ""
+        },
+        {
+            "Name": "name",
+            "DateStart": "date",
+            "DateEnd": "date",
+            "RoleDes": "",
+            "Tec": ""
+        }
+    ],
+    "Skills": [
+    	{
+    		"Id": "SDSDSD",
+    		"Name": "NodeJs",
+            "type": "server side code",
+            "LY-OE": "2017",
+    		"YS-EX": 4,
+    		"LV-IT": 5
+        },
+        {
+    		"Id": "SDSDSD",
+    		"Name": "NodeJs",
+            "type": "server side code",
+            "LY-OE": "2017",
+    		"YS-EX": 4,
+    		"LV-IT": 5
+    	}
+    ],
+    "Goals": [
+    	{
+            "Id": "A545",
+            "Type": "tasks",
+            "Status": "open",
+            "Description": "bla bla ",
+    		"Date-created": "09/09/2018",
+    		"Date-finish": "09/09/2018",
+    		"Update": [
+    			{
+    				"date": "09/09/2018",
+                    "vesion": "1.5",
+                    "Description": "bla bla "
+    			}
+    		]
+        },
+        {
+            "Id": "A545",
+            "Type": "objective",
+            "Status": "closed",
+            "Description": "bla bla ",
+    		"Date-created": "09/09/2018",
+    		"Date-finish": "09/09/2018",
+    		"Update": [
+    			{
+    				"date": "09/09/2018",
+                    "vesion": "1.5",
+                    "Description": "bla bla "
+    			}
+    		]
+    	}
+    ],
+    "loginInfo": {
+        "last": "date",
+        "time": "time",
+        "ip": "344.434.555.112"
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "student-class-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node ./rest/server.js",
+  "scripts": {
+    "start": "nodemon ./rest/server.js",
+    "mongoStart": "mongod",
+    "lint": "eslint rest/*.js"
+  },
+  "author": "Propelics",
+  "license": "",
+  "dependencies": {
+    "body-parser": "*",
+    "dotenv": "^6.2.0",
+    "express": "*",
+    "lodash": "^4.17.11",
+    "mongodb": "^3.1.9",
+    "mongoose": "^5.3.10",
+    "nodemon": "^1.18.6"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  }
+}
